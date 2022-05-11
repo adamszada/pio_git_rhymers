@@ -3,7 +3,9 @@ package edu.kis.vh.nursery.list;
 /**
  *  protected Node prev - previous list's node
  *  protected Node next - next list's node
- *
+ *	private final int value - value of node
+ *	public Node(int i) - constructor to initialize Node
+ *  public int getValue(), 	public Node getPrev(), public void setPrev(Node prev), public void setNext(Node next)... - methods to access and update the value
  */
 
 
